@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-https://github.com/Rom1z/Rom1z/blob/f61d3a78b3bb5bdb10fd61e23a40d3e6d8871118/terminal%20(1).gif
+![Uploading terminal (1).gif…]()
+
 <!--
 **Rom1z/Rom1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![Uploading terminal (1).gif…]()
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
