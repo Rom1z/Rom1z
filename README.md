@@ -2,6 +2,7 @@
 
 
 ![](https://github.com/Rom1z/Rom1z/blob/main/terminal%20(1).gif)
+<img src="https://i.countdownmail.com/38etbj.gif" border="0" alt="countdownmail.com"/>
 <!--
 **Rom1z/Rom1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
