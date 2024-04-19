@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://github.com/Rom1z/Rom1z/blob/f61d3a78b3bb5bdb10fd61e23a40d3e6d8871118/terminal%20(1).gif
 <!--
 **Rom1z/Rom1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
