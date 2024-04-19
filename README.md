@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Uploading terminal (1).gif…]()
 
+![](https://github.com/Rom1z/Rom1z/blob/main/terminal%20(1).gif)
 <!--
 **Rom1z/Rom1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
