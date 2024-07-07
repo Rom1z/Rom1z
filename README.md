@@ -4,7 +4,7 @@
 **<img src="https://i.countdownmail.com/3dzmb7.gif" style="width:399px;" border="0" alt="countdownmail.com"/>**
 
 
-**[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=360)](https://moon-svg.minung.dev)**
+**<table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><img src="https://i.countdownmail.com/3dzmb7.gif" style="display:inline-block!important;width:399px;" border="0" alt="countdownmail.com"/></td></tr></tbody></table>**
 
 <div align="center">
 	<table>
