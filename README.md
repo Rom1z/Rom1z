@@ -34,25 +34,5 @@
 
 [![Forkers repo roster for @Rom1z/Rom1z](https://reporoster.com/forks/dark/notext/Rom1z/Rom1z)](https://github.com/Rom1z/Rom1z/network/members)
 
-<!--
-
-
-
-
-
-
-
-**Rom1z/Rom1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![Uploading terminal (1).gif…]()
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
