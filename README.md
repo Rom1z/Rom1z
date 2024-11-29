@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=45&duration=5078&pause=1000&color=13F726&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=2006&height=103&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E%2C+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%D0%B8%D0%B7+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE!+%D0%93%D0%BE%D1%82%D0%BE%D0%B2+%D0%BB%D0%B8+%D1%82%D1%8B+%D0%BA+%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC+%D0%B2+%D0%BC%D0%B8%D1%80%D0%B5+%D0%BA%D0%BE%D0%B4%D0%B0%3F)](https://git.io/typing-svg)
 
-## Hello
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 
+
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
 
 
 <div align="center">
@@ -30,10 +35,15 @@
 	</table>
 </div>
 
-[![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme2)](https://dday-widget.minung.dev)
 
 
-[![Forkers repo roster for @Rom1z/Rom1z](https://reporoster.com/forks/dark/notext/Rom1z/Rom1z)](https://github.com/Rom1z/Rom1z/network/members)
+
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+
+
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme2)](https://dday-widget.minung.dev)
 <br><br>
+
+
